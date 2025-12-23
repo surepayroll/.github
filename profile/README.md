@@ -12,8 +12,9 @@ they do best.
 ## 💻 Engineering at SurePayroll
 
 Our engineering team is passionate about building reliable, scalable solutions
-that thousands of businesses depend on every day. We value clean code,
-collaboration, and continuous improvement.
+that thousands of businesses depend on every day. We champion innovative ideas,
+optimize for developer velocity, and maximize project impact — all while
+minimizing blast radius when things go wrong.
 
 ## 🆕 New Developer?
 
