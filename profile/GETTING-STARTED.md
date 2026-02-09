@@ -9,6 +9,7 @@ Welcome to the SurePayroll GitHub organization! Before you can contribute, you'l
 - [ ] 📧 Link your Paychex email to GitHub
 - [ ] 🔐 Enable non-SMS two-factor authentication
 - [ ] 🔏 Set up GPG commit signing
+- [ ] 🖼️ Set up a picture for your github profile (preferrably same as your paychex picture)
 
 ---
 
@@ -205,6 +206,22 @@ gpgconf --kill gpg-agent
 </details>
 
 📚 **GitHub Docs**: [Managing commit signature verification](https://docs.github.com/en/authentication/managing-commit-signature-verification)
+
+### Step 5: Set up a picture for your github profile
+
+1. Click your profile photo (top-right corner) → Settings                                                                       
+2. Under Profile Picture, click Edit → Upload a photo...                                                                        
+3. Select your image, click Upload                                                                                              
+4. Crop it and click Set new profile picture                                           
+
+Image requirements:
+  - PNG, JPG, or GIF
+  - Under 1 MB
+  - Max 3000x3000 px (recommended ~500x500 px)
+
+Sources:
+  - https://docs.github.com/en/account-and-profile/tutorials/personalize-your-profile
+  - https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile
 
 ---
 
