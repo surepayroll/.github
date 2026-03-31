@@ -149,6 +149,14 @@ git config --global tag.gpgsign true
 
 # Ensure your Git email matches your GPG key
 git config --global user.email "your.name@paychex.com"
+
+# Update the path to match your username and system configuration
+echo 'pinentry-program "/usr/bin/pinentry-basic"' >> ~/.gnupg/gpg-agent.conf
+
+git config --global gpg.program "/usr/bin/gpg"
+
+gpgconf --kill gpg-agent
+gpgconf --reload gpg-agent
 ```
 
 #### 🍎 macOS Users: Additional Configuration
