@@ -1,0 +1,12 @@
+# Repository ownership manifest — read by tools-payroll-github-ops.
+# owner + writers are the only teams with write access; <owner>-leads gets admin.
+version: 1
+
+owner: org-admins
+
+notifications:
+  announcements:
+    space_id: Y2lzY29zcGFyazovL3VzL1JPT00vODE5NzU3MTAtMGRjYS0xMWYxLThkZTAtMGZkMTE4YjE1ZDI2
+    space_name: "Engineering - Announcements"
+    space_link: https://web.webex.com/spaces/Y2lzY29zcGFyazovL3VzL1JPT00vODE5NzU3MTAtMGRjYS0xMWYxLThkZTAtMGZkMTE4YjE1ZDI2
+
